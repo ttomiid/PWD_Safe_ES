@@ -23,7 +23,6 @@ pip install cryptography
 
 > Tkinter viene incluido con la mayoría de instalaciones de Python.
 
----
 
 ## Instalación
 
@@ -57,7 +56,6 @@ python main.py
 5. Copia usuario o contraseña al portapapeles con auto-borrado de 20 segundos.
 6. Bloquea la aplicación con el botón 🔒 o automáticamente tras 5 minutos.
 
----
 
 ## Archivos
 
@@ -65,7 +63,6 @@ python main.py
 * `pw.enc` → Archivo cifrado que almacena todas las contraseñas.
 * `salt.bin` → Salt aleatoria usada para derivar la clave desde la contraseña maestra.
 
----
 
 ## Seguridad
 
@@ -73,17 +70,14 @@ python main.py
 * Se usa `PBKDF2HMAC` con SHA256 y 390,000 iteraciones para derivar la clave de cifrado.
 * Los datos solo se descifran en memoria durante la sesión de la app.
 
----
 
 ## Capturas de pantalla
 
 
 
----
+
 
 ## Licencia
 
 Este proyecto está bajo la licencia Apache 2.0 .
 Cualquier uso personal y educativo es bienvenido.
-
----
