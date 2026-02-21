@@ -74,7 +74,13 @@ python main.py
 ## Capturas de pantalla
 
 
+<img width="582" height="327" alt="image" src="https://github.com/user-attachments/assets/eb5256b0-9066-4e0b-a588-9c7213cad3e5" />
 
+<img width="1650" height="850" alt="image" src="https://github.com/user-attachments/assets/cca80402-34a8-4c6d-88e9-83134bb598ee" />
+
+<img width="996" height="742" alt="image" src="https://github.com/user-attachments/assets/2b7fbbcf-9fed-41b2-a862-aa037e0b8c21" />
+
+<img width="543" height="314" alt="image" src="https://github.com/user-attachments/assets/5b9abffe-f628-4e5f-a91b-d340acfbfd04" />
 
 
 ## Licencia
